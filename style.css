@@ -8,13 +8,26 @@
 
 .background {
     background-color: rgb(216, 201, 173);
+    padding-left: 50px;
+    padding-right: 50px;
+    position: relative;
 }
 
 .menu-button{
     background-color: rgb(196, 176, 140);
     color: black;
-    width: 200px;
-    height: 100px;
+    width: 250px;
+    height: 120px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
+    position: relative;
+    top: 50px;
+}
+
+.head-img{
+    width: auto;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
